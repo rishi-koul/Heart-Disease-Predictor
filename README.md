@@ -1,4 +1,4 @@
-# Heart-Disease-Predictor
+# Heart-Disease-Predictor 💝💝
 
 ## Description
 * An app developed using `Flutter` to predict the risk of having an heart attack.
