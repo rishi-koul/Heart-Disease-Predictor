@@ -9,7 +9,7 @@
 ---
 
 ## Visuals
-![final_pls_1](https://user-images.githubusercontent.com/59619895/86520800-65851580-be16-11ea-86c8-ad58366a72ed.gif){:height="50%" width="50%"}
+![final_pls_1](https://user-images.githubusercontent.com/59619895/86520800-65851580-be16-11ea-86c8-ad58366a72ed.gif)
 
 
 ![final_pls_2](https://user-images.githubusercontent.com/59619895/86520831-cb719d00-be16-11ea-91c5-1c10410e2a0f.gif)
@@ -17,6 +17,13 @@
 ---
 
 ## Installation
+
+* In order for the code to work:
+  * Please ensure to run the python backend to access the result of the machine learning model
+
+* To run on a real device please run the following commands on the terminal and replace the `url` in the code with the url derived
+  * bre cask install ngrok
+  * ngrok http 5000
 
 
 
