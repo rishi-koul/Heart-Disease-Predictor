@@ -1,4 +1,4 @@
-# Heart-Disease-Predictor <img width="105" alt="Screen Shot 2020-07-03 at 5 41 08 PM" src="https://user-images.githubusercontent.com/59619895/86521125-b6970880-be1a-11ea-8aca-8fde154e7225.png">
+# Heart-Disease-Predictor   <img width="50" alt="Screen Shot 2020-07-03 at 5 41 08 PM" src="https://user-images.githubusercontent.com/59619895/86521125-b6970880-be1a-11ea-8aca-8fde154e7225.png">
 
 ## Description
 * An app developed using `Flutter` to predict the risk of having an heart attack.
