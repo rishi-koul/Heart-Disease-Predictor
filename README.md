@@ -16,13 +16,13 @@
 
 ---
 
-## Installation
+## Usages
 
 * In order for the code to work:
   * Please ensure to run the python backend to access the result of the machine learning model
 
 * To run on a real device please run the following commands on the terminal and replace the `url` in the code with the url derived
-  * bre cask install ngrok
+  * brew cask install ngrok
   * ngrok http 5000
 
 
