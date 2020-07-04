@@ -2,4 +2,5 @@
 An app to predict the risk of having an heart attack
 
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
+![479i83](https://user-images.githubusercontent.com/59619895/86520621-92382d80-be14-11ea-84aa-199f7d3d3a28.gif)
+
