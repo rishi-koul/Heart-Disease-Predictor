@@ -2,5 +2,6 @@
 An app to predict the risk of having an heart attack
 
 
-![479i83](https://user-images.githubusercontent.com/59619895/86520621-92382d80-be14-11ea-84aa-199f7d3d3a28.gif)
+![final_pls_1](https://user-images.githubusercontent.com/59619895/86520800-65851580-be16-11ea-86c8-ad58366a72ed.gif)
+
 
