@@ -1,0 +1,4 @@
+#Sat Jul 04 14:23:34 EDT 2020
+base.0=/Users/rishikoul/Desktop/heart_disease_project/heart_disease_detection/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
