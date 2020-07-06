@@ -2,7 +2,7 @@
 
 ## Description
 * An app developed using `Flutter` to predict the risk of having an heart attack.
-* Uses a hyperparameter tuned `Linear Regression` machine learning model with an accuarcy of 86% to predict the result.
+* Uses a hyperparameter tuned `LogisticRegression` machine learning model with an accuarcy of 86% to predict the result.
 * Uses a total of `thirteen` paramaters (details can be found in folder `machine_learning_model`) as the basis of scoring.
 * A Python backend is used to load the trained machine learning model and provide the result in json format to the Flutter frontend
 
