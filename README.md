@@ -16,7 +16,7 @@
 
 ---
 
-## Usages
+## Requirements
 
 * In order for the code to work:
   * Please ensure to run the python backend to access the result of the machine learning model
